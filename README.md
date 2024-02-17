@@ -13,4 +13,3 @@ I work in the AEC industry, supporting and solving technology-related problems t
 - 💬 Ask me about AEC software development, BIM workflows, or anything related to technology in the construction industry!
 - 📫 How to reach me: [You can reach out to me via email](mailto:danielpinheiro860@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/danielpinh).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm also an avid traveler and love exploring architectural marvels around the world!
